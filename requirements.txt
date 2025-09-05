@@ -1,0 +1,3 @@
+telegram
+discord
+python-telegram-bot
